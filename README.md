@@ -6,4 +6,4 @@ passwords you want to generate and then the amount of passwords you wanted gener
 
 ![image](https://user-images.githubusercontent.com/93494902/212435973-c289d825-18e7-4d9e-b1b7-a6c5929d4faf.png)
 
-This password has 1,007 words and 1,006,006,000 passwords that could be generated.
+This password has 874 words and 7,866,000 (874 * (9999 - 1000 + 1)) passwords that could be generated.
